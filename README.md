@@ -122,7 +122,8 @@ Projet éducatif développé dans le cadre de cours à l'IUT.
 
 ## 👥 Contributeurs
 
-- Nicolas - Développeur principal
+- Nicolas BENOIT
+- Tanguy CRUSSARD
 
 ---
 
